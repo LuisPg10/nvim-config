@@ -1,3 +1,3 @@
-require('luis.packer')
 require('luis.settings')
+require('luis.lazy')
 require('luis.mappings')
