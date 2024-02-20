@@ -94,7 +94,6 @@ require("lazy").setup({
 			"nvim-lua/plenary.nvim",
 			"stevearc/dressing.nvim",
 		},
-		config = true,
 	},
 
 	-- AUTOPAIRS
